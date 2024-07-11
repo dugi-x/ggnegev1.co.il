@@ -31,14 +31,14 @@ export default function RootLayout({ children }) {
         <meta property="og:type" content="website" />
         <meta property="og:title" content='גג הנגב בע"מ | פירוק ופינו אסבסט' />
         <meta property="og:description" content='גג הנגב בע"מ הינה חברה מובילה וחלוצה בתחום פינוי, סילוק וסקר אסבסט. לפרטים נוספים 050-5256711' />
-        <meta property="og:image" content="https://www.ggnegev1.co.il/images/ggnegev-ltd-logo.png" />
+        <meta property="og:image" content="https://www.ggnegev1.co.il/images/og-image.png" />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta property="twitter:domain" content="ggnegev1.co.il" />
         <meta property="twitter:url" content="https://www.ggnegev1.co.il" />
         <meta name="twitter:title" content='גג הנגב בע" מ | פירוק ופינו אסבסט' />
         <meta name="twitter:description" content='גג הנגב בע"מ הינה חברה מובילה וחלוצה בתחום פינוי, סילוק וסקר אסבסט. לפרטים נוספים 050-5256711' />
-        <meta name="twitter:image" content="https://www.ggnegev1.co.il/images/ggnegev-ltd-logo.png" />
+        <meta name="twitter:image" content="https://www.ggnegev1.co.il/images/og-image.png" />
 
       </head>
       <body dir="rtl" className={cn("min-h-screen bg-background font-sans antialiased", fontSans.variable)}>
