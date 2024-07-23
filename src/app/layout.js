@@ -46,8 +46,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://ww
 })(window,document,'script','dataLayer','GTM-W46VJR2R');`}</Script>
       </head>
       <body dir="rtl" className={cn("min-h-screen bg-background font-sans antialiased", fontSans.variable)}>
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W46VJR2R"
-          height="0" width="0" style={{display: "none", visibility: "hidden"}}></iframe></noscript>
+        <noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W46VJR2R" height="0" width="0" style={{display: "none", visibility: "hidden"}}></iframe>
+        </noscript>
         {children}
       </body>
     </html>
